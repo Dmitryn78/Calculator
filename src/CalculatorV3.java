@@ -81,7 +81,7 @@ public class CalculatorV3 {
             return premiere/second;
         }
         else{
-            System.out.println("Ошибка ввода 3");
+            System.out.println("Ошибка ввода ");
             throw new Exception();
         }
 
@@ -105,7 +105,7 @@ public class CalculatorV3 {
             return convertation(r);
         }
         else{
-            System.out.println("Ошибка ввода 3");
+            System.out.println("Ошибка ввода ");
             throw new Exception();
         }
 
